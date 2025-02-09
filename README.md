@@ -1,2 +1,2 @@
 # test-github
-This repo is public
+This is our new project
