@@ -7,4 +7,6 @@ struct Student {
   char name[40];
 };
 
+void printStudentInfo(struct Student student);
+
 #endif
